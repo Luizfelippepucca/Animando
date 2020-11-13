@@ -14,3 +14,7 @@ para que pudesse ser feito o desafio.
 HTML5<br>
 CSS3(inline)<br>
 Javascript.
+
+##### Para visualisar á animação clique no link abaixo:
+
+https://luizfelippepucca.github.io/Animando/
